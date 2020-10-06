@@ -14,7 +14,7 @@
 
      https://www.youtube.com/watch?v=M1e2tLnzVPo&t=3154s
   
-  ![ex_screenshot](./image/lovetest1.PNG = 100x 20)
+  ![ex_screenshot](./image/lovetest1.PNG =100x20)
   ![ex_screenshot](./image/lovetest2.PNG)
   ![ex_screenshot](./image/lovetest3.PNG)
   ![ex_screenshot](./image/lovetest4.PNG)
