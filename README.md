@@ -14,10 +14,10 @@
 
      https://www.youtube.com/watch?v=M1e2tLnzVPo&t=3154s
      
-  <img src="image/lovetest1.PNG" width="200">
-  <img src="image/lovetest2.PNG" width="200">
-  <img src="image/lovetest3.PNG" width="200">
-  <img src="image/lovetest4.PNG" width="200">
+  <img src="image/lovetest1.PNG" width="150">
+  <img src="image/lovetest2.PNG" width="150">
+  <img src="image/lovetest3.PNG" width="150">
+  <img src="image/lovetest4.PNG" width="150">
 
 ------
 
