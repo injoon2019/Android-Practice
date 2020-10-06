@@ -6,9 +6,9 @@
 
 - LoveTest : 
 
-  `Java` `Send Email` `Java Mail Api`
+  `jetpack' 'navigationCompnent'
 
-  -> 인증 성공 시 Dialog Down
+  -> 하나의 네비게이션을 두고 여러개의 프레그먼트 이용 
 
   - 참조 
 
@@ -21,16 +21,33 @@
 
 ------
 
-- MyVolley : Volley를 이용한 간단한 영화 정보를 불러와서 Gson을 이용 parsing 하는 예제
+- textviewKt : 
 
-  `Java` `Boostcourse` `Volley` `Gson`
-
-  - Boost Course 5 Example
+  - 홍드로이드 
   
-    https://www.edwith.org/boostcourse-android/lecture/17091/
+    https://www.youtube.com/watch?v=IaXhn_I_ziY&list=PLC51MBz7PMywN2GJ53aF0UO5fnHGjW35a
 
 ---
 
+- Intent : 
 
+  - 홍드로이드 
+  
+    https://www.youtube.com/watch?v=oXIeBhV06-Y&list=PLC51MBz7PMywN2GJ53aF0UO5fnHGjW35a&index=3
 
+---
 
+- ImageViewKt : 
+
+  - 홍드로이드 
+  
+    https://www.youtube.com/watch?v=fmiwEfFrjsM&list=PLC51MBz7PMywN2GJ53aF0UO5fnHGjW35a&index=4
+
+---
+- ListViewKt : 
+
+  - 홍드로이드 
+  
+    https://www.youtube.com/watch?v=ao0Iqfhy0oo&list=PLC51MBz7PMywN2GJ53aF0UO5fnHGjW35a&index=5
+
+---
